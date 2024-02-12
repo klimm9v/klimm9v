@@ -1,6 +1,6 @@
 <h1>السلام عليك </h1>
 <h2><img src="https://san2.ru/smiles/biggrin.gif" width="30"/>(Welcome!), I'm Klimmov! <img src="https://www.gifki.org/data/media/851/flag-palestiny-animatsionnaya-kartinka-0003.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://ragglefragglereviews.files.wordpress.com/2021/07/tumblr_12c0be42399e77fbf3e903ce864e64c0_1addbc76_540.gif" width="230">
 </em></p>
 
 
