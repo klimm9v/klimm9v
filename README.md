@@ -27,6 +27,7 @@ bio = {
 ```
 
 <em><b>A person begins to live only when he manages to surpass himself.</b></b><img src="https://san2.ru/smiles/steep.gif" width="50"></em>
+
 <img src="https://ragglefragglereviews.files.wordpress.com/2021/07/tumblr_12c0be42399e77fbf3e903ce864e64c0_1addbc76_540.gif" width="170">
 
 
