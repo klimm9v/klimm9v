@@ -1,4 +1,4 @@
-<img align='center' src="https://english.ahram.org.eg/Media/News/2015/12/3/2015-635847008232223866-222.jpg"></img>
+<img align='center' src="https://english.ahram.org.eg/Media/News/2015/12/3/2015-635847008232223866-222.jpg" width='230'></img>
 <h1>السلام عليك </h1>
 <h2><img src="https://san2.ru/smiles/biggrin.gif" width="30"/>(Welcome!), I'm Klimmov! <img src="https://www.gifki.org/data/media/851/flag-palestiny-animatsionnaya-kartinka-0003.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
