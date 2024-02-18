@@ -12,7 +12,7 @@
 ```python
 bio = {
     'pronouns': "He" | "Him",
-    'code': ["Python", 'C']
+    'code': ["Python", 'C'],
     'askMeAbout': "web dev",
     'technologies': {
         'backEnd': {
