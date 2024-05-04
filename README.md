@@ -6,13 +6,15 @@
 
 ```python
 bio = {
-    'pronouns': "He" | "Him",
     'code': ["Python", 'C'],
     'askMeAbout': "web dev",
     'technologies': {
         'backEnd': {
-            'None': 'coming soon',
+            'Lang': 'Python',
         },
+        'system': {
+            'Lang': 'C',
+        }
         'databases': ["MySql", "sqlite"],
     },
     'architecture': ["Serverless Architecture", "Progressive web applications", "Single page applications"],
