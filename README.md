@@ -10,7 +10,7 @@ bio = {
     'askMeAbout': "web dev",
     'technologies': {
         'backEnd': {
-            'Lang': 'Python',
+            'Lang': 'Python'
         },
         'system': {
             'Lang': 'C',
