@@ -13,7 +13,7 @@ bio = {
             'Lang': 'Python'
         },
         'system': {
-            'Lang': 'C',
+            'Lang': 'C'
         }
         'databases': ["MySql", "sqlite"],
     },
