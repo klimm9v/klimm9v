@@ -25,8 +25,12 @@ bio = {
 
 
 ```C
+#include <stdio.h>
+
 int main() {
 
+    printf("Hello my name is KLIMM9V");
+     
     return 0;
 
 }
