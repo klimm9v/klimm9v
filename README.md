@@ -18,7 +18,6 @@ struct bio {
 int main(void) {
 
     struct bio klimm9v = {19, "Klimm9v"};
-    printf("Hello, my name %s, age: %d\n", klimm9v.name, klimm9v.age);
     
     return 0;
 }
