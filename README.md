@@ -1,7 +1,4 @@
-# Hello my name is Khabib!
-### Python WEB-dev
-
-```python
+```C++
 {
   name: "Khabib",
   skills: ["Python", "SQL", "Algorithms"],
