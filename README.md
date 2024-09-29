@@ -1,4 +1,4 @@
-```C++
+```json
 {
   name: "Khabib",
   skills: ["Python", "SQL", "Algorithms"],
